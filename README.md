@@ -18,19 +18,6 @@ Build your artificial neural network with our own structure, providing hyperpara
 ```
 net.tuning({"learn_rate": 0.001, "drop_rate": 0.5,"batches": 100, "reg_rate": 0.3, "mom_rate":0.3}) 
 ```
-
-![alt text](https://miro.medium.com/max/400/1*v1ohAG82xmU6WGsG2hoE8g.png)</br>
-Build your artificial neural network with our own structure, providing hyperparameters in a simple JSON format.</br>
-```
-net.tuning({"learn_rate": 0.001, "drop_rate": 0.5,"batches": 100, "reg_rate": 0.3, "mom_rate":0.3}) 
-```
-
-
-
-
-
-
-
 ## Release History
 
 * 0.0.1

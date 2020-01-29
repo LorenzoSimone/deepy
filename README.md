@@ -1,5 +1,4 @@
 ![alt text](https://iili.io/H8Ua8N.png)
-# Deepy
 > Machine learning library highly supporting state of the art topics from an academic point of view
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)

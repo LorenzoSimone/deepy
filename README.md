@@ -1,10 +1,10 @@
-# Product Name
-> Short blurb about what your product does.
+# Deepy
+> Machine learning framework highly supporting state of the art insights from an academic point of view
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+[![PyPI version fury.io](https://badge.fury.io/py/ansicolortags.svg)](0.1 Beta)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
+![alt text](https://ibb.co/T24v0FP)
 One to two paragraph statement about your product and what it does.
 
 ![](header.png)
